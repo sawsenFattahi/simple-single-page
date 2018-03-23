@@ -1,1 +1,2 @@
-# simple-single-page
+yarn install 
+yarn start
